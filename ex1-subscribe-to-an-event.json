@@ -1,0 +1,15 @@
+{
+    "resourceType": "Subscription",
+    "status": "requested",
+    "end": "2021-01-01T00:00:00Z",
+    "reason": "<!-- TODO ENTER A REASON HERE-->",
+    "criteria": "<!--TODO ENTER THE CRITERIA HERE",
+    "channel": {
+        "type": "<!-- TODO ENTER THE CHANNEL TYPE HERE-->",
+        "endpoint": "<!-- TODO ENTER THE END POINT HERE-->",
+        "payload": "<!-- TODO ENTER ACCEPT TYPE HERE-->",
+        "header":[
+                "<!-- TODO ENTER THE HEADERS HERE-->"
+            ]
+    }
+}
